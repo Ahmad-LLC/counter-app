@@ -1,0 +1,63 @@
+body{
+    background-color: orangered;
+    text-align: center;
+}
+h1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Verdana;
+}
+#fft{
+    width: 340px;
+    height: 20px;
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+    display: flex;
+}
+div{
+    background-image: url('images/03.jpg');
+    background-repeat: no-repeat;
+    border: 2px solid orangered;
+    border-radius: 5px;
+    height: 650px;
+}
+header{
+    background-color: orangered;
+    height: 60px;
+    font-family: Trebuchet ;
+}
+
+h2{
+    color: white;
+    font-weight: bold;
+    font-size: 120px;
+}
+button{
+    width: 160px;
+    height: 200px;
+    border: none;
+    border-radius: 100px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Verdana;
+    margin-bottom: ;
+    margin-left: 2px;
+    margin-right: 2px;
+    
+}
+#count-btn{
+    background-color: darkgreen;
+    color: white;
+}
+#reset-btn{
+    background-color: orangered;
+    color: white;
+}
+p{
+    color: white;
+    margin-top: 2px;
+    font-weight: bold;
+    font-family: Tahoma;
+}
